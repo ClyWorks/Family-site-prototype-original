@@ -69,9 +69,16 @@
 ._文本段落 {
   text-align:left;
 }
+.line {
+}
 .text_area {
   color:#000000;
   text-align:left;
+}
+.tree_node {
+  text-align:left;
+}
+.table_cell {
 }
 ._流程形状 {
 }
